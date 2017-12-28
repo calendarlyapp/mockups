@@ -1,2 +1,2 @@
 # mockups
-Any front-end mockups will be sotred here
+Any front-end mockups will be stored here
